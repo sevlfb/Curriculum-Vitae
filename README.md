@@ -88,6 +88,7 @@ Skills :
     Reading
     Drawing
     
+		
     
   
     
