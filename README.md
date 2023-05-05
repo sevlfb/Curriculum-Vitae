@@ -44,7 +44,7 @@ Education :
          Calculus     
 	 
 	 
-    Projects :
+Projects :
       PIX I : DaVinci Chariot 
         Conception and studying of an engine. Creation of a 4 wheel based moving platform.
       PIX II : Cobotic
