@@ -2,6 +2,7 @@
 This is an exhaustive description of my curriculum vitae
 
 Professional Experiences :
+
 ``
   OpenValue (3rd of April 2023 - 28th of July 2023)
     Big Data and AI Consultant.
