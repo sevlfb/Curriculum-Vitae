@@ -25,88 +25,123 @@ This is an exhaustive description of my curriculum vitae
 &nbsp; &nbsp; &nbsp; Computer Science : 
 
 &nbsp; &nbsp; &nbsp; &nbsp; Data Analysis
+
 &nbsp; &nbsp; &nbsp; &nbsp; Deep Learning
+
 &nbsp; &nbsp; &nbsp; &nbsp; Machine Learning
+
 &nbsp; &nbsp; &nbsp; &nbsp; Multi-agent
+
 &nbsp; &nbsp; &nbsp; &nbsp; Webdata mining
+
 &nbsp; &nbsp; &nbsp; &nbsp; Semantics
 
 &nbsp; &nbsp; &nbsp; Advanced Mathematics :
 &nbsp; &nbsp; &nbsp; &nbsp; Optimisation
+
 &nbsp; &nbsp; &nbsp; &nbsp; Linear Algebra
+
 &nbsp; &nbsp; &nbsp; &nbsp; Calculus     
 
-Projects :
+&nbsp; &nbsp; Projects :
 
-PIX I : DaVinci Chariot 
+&nbsp; &nbsp; &nbsp; PIX I : DaVinci Chariot 
 
-Conception and studying of an engine. Creation of a 4 wheel based moving platform.
+&nbsp; &nbsp; &nbsp; &nbsp; Conception and studying of an engine. Creation of a 4 wheel based moving platform.
 
-PIX II : Cobotic
+&nbsp; &nbsp; &nbsp; PIX II : Cobotic
 
-Design and conception of a machine that helps human in repetitive tasks, in association with another group. Creation of a 4 wheel based moving platform. 
+&nbsp; &nbsp; &nbsp; &nbsp; Design and conception of a machine that helps human in repetitive tasks, in association with another group. Creation of a 4 wheel based moving platform. 
 
-Skills :
-  Arduino, Craft.
+&nbsp; &nbsp; &nbsp; &nbsp; Skills : Arduino, Craft.
   
-PING : Falling prevention app (Android)
+&nbsp; &nbsp; &nbsp; PING : Falling prevention app (Android)
 
-Conception of an app for Android that detects falling.
+&nbsp; &nbsp; &nbsp; &nbsp; Conception of an app for Android that detects falling.
 
-Research Track : 
+&nbsp; &nbsp; &nbsp; Research Track : 
 
-Prediction of short sequences. State of art algorithms and discussions. link
-
-
-
-
-  Le Bon Sauveur (2006-2019)
-    Baccalauréat : Mention Bien (14.67 / 20)
+&nbsp; &nbsp; &nbsp; &nbsp; Prediction of short sequences. State of art algorithms and discussions. link
 
 
 
-  Holy Cross (London, UK) : 2004-2005
+&nbsp; &nbsp; Le Bon Sauveur (2006-2019)
+&nbsp; &nbsp; &nbsp; Baccalauréat : Mention Bien (14.67 / 20)
 
 
-Languages Spoken :
-  French (fluent)
-  English (advanced)
-  Chinese (intermediate)
-  Spanish (beginner)
+&nbsp; &nbsp; Holy Cross (London, UK) : 2004-2005
 
-Skills : 
-  Coding (ascending order of mastery):
-    Python
-    C#
-    Java
-    HTML
-    C
-    Scala
-  
-  Frameworks / Softwares :
-    Pack Office
-    Streamlit
-    Matlab
-    Jira
-    Protege
-    PyCharm
-    Jupyter
-    Anaconda
-    Azure
-    GitHub
-  
-  Sports : 
-    Golf
-    Swimming
-    Tennis
-    Table tennis
-    Gym
-    
-  Leisures :
-    Problem Solving
-    Video Games
-    Reading
-    Drawing
+
+**Languages Spoken :**
+&nbsp; French (fluent)
+
+&nbsp; English (advanced)
+
+&nbsp; Chinese (intermediate)
+
+&nbsp; Spanish (beginner)
+
+**Skills :**
+
+&nbsp; Coding (ascending order of mastery):
+
+&nbsp; &nbsp; Python
+
+&nbsp; &nbsp; C#
+
+&nbsp; &nbsp; Java
+
+&nbsp; &nbsp; HTML
+
+&nbsp; &nbsp; C
+
+&nbsp; &nbsp; Scala
+
+
+&nbsp; Frameworks / Softwares :
+
+&nbsp; &nbsp; Pack Office
+
+&nbsp; &nbsp; Streamlit
+
+&nbsp; &nbsp; Matlab
+
+&nbsp; &nbsp; Jira
+
+&nbsp; &nbsp; Protege
+
+&nbsp; &nbsp; PyCharm
+
+&nbsp; &nbsp; Jupyter
+
+&nbsp; &nbsp; Anaconda
+
+&nbsp; &nbsp; Azure
+
+&nbsp; &nbsp; GitHub
+
+**Sports :**
+
+&nbsp; Golf
+
+&nbsp; Swimming
+
+&nbsp; Tennis
+
+&nbsp; Table tennis
+
+&nbsp; Gym
+
+
+**Leisures :**
+
+&nbsp; Problem Solving
+
+&nbsp; Video Games
+
+&nbsp; Reading
+
+&nbsp; Drawing
     
 		
     
