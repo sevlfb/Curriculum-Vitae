@@ -29,6 +29,7 @@ Professional Experiences :
 Education :
 
 ``
+
 ESILV ()
 
 Skills :
@@ -69,6 +70,7 @@ Conception of an app for Android that detects falling.
 Research Track : 
 
 Prediction of short sequences. State of art algorithms and discussions. link
+
 ``
 
 ``
