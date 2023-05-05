@@ -1,26 +1,27 @@
 # Curriculum-Vitae
 This is an exhaustive description of my curriculum vitae
 
+
 **Professional Experiences :**
 
-&nbsp; OpenValue (3rd of April 2023 - 28th of July 2023)
+&nbsp; *OpenValue (3rd of April 2023 - 28th of July 2023)*
 &nbsp; &nbsp; Big Data and AI Consultant. Generative AI Solutions. Metaverse.
 
-&nbsp; Hôtel Sofitel Le Faubourg :
+&nbsp; *Hôtel Sofitel Le Faubourg :*
 &nbsp; &nbsp; Server at the restuarant XXX. RoomService.
 
-&nbsp; MyAnatol (2021)
+&nbsp; *MyAnatol (2021)*
 
-&nbsp; Mathematics tutor for ninth through eleventh graders (2020)
+&nbsp; *Mathematics tutor for ninth through eleventh graders (2020)*
 
-&nbsp; Nexter Robotics (2018)
+&nbsp; *Nexter Robotics (2018)*
 
   
 **Education :**
 
-&nbsp; ESILV ()
+&nbsp; *ESILV ()*
 
-&nbsp; &nbsp; Skills :
+&nbsp; &nbsp; *Skills :*
 
 &nbsp; &nbsp; &nbsp; Computer Science : 
 
@@ -43,33 +44,33 @@ This is an exhaustive description of my curriculum vitae
 
 &nbsp; &nbsp; &nbsp; &nbsp; Calculus     
 
-&nbsp; &nbsp; Projects :
+&nbsp; &nbsp; *Projects :*
 
-&nbsp; &nbsp; &nbsp; PIX I : DaVinci Chariot 
+&nbsp; &nbsp; &nbsp; *PIX I : DaVinci Chariot*
 
 &nbsp; &nbsp; &nbsp; &nbsp; Conception and studying of an engine. Creation of a 4 wheel based moving platform.
 
-&nbsp; &nbsp; &nbsp; PIX II : Cobotic
+&nbsp; &nbsp; &nbsp; *PIX II : Cobotic*
 
 &nbsp; &nbsp; &nbsp; &nbsp; Design and conception of a machine that helps human in repetitive tasks, in association with another group. Creation of a 4 wheel based moving platform. 
 
 &nbsp; &nbsp; &nbsp; &nbsp; Skills : Arduino, Craft.
   
-&nbsp; &nbsp; &nbsp; PING : Falling prevention app (Android)
+&nbsp; &nbsp; &nbsp; *PING : Falling prevention app (Android)*
 
 &nbsp; &nbsp; &nbsp; &nbsp; Conception of an app for Android that detects falling.
 
-&nbsp; &nbsp; &nbsp; Research Track : 
+&nbsp; &nbsp; &nbsp; *Research Track :* 
 
 &nbsp; &nbsp; &nbsp; &nbsp; Prediction of short sequences. State of art algorithms and discussions. link
 
 
 
-&nbsp; &nbsp; Le Bon Sauveur (2006-2019)
+&nbsp; &nbsp; *Le Bon Sauveur (2006-2019)*
 &nbsp; &nbsp; &nbsp; Baccalauréat : Mention Bien (14.67 / 20)
 
 
-&nbsp; &nbsp; Holy Cross (London, UK) : 2004-2005
+&nbsp; &nbsp; *Holy Cross (London, UK) : 2004-2005*
 
 
 **Languages Spoken :**
