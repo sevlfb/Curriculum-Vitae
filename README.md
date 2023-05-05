@@ -1,36 +1,25 @@
 # Curriculum-Vitae
 This is an exhaustive description of my curriculum vitae
 
-Professional Experiences :
+**Professional Experiences :**
 
+*TabSpace*OpenValue (3rd of April 2023 - 28th of July 2023)
+Big Data and AI Consultant.
+Generative AI Solutions. Metaverse.
 
-  OpenValue (3rd of April 2023 - 28th of July 2023)
-    Big Data and AI Consultant.
-    Generative AI Solutions. Metaverse.
+Hôtel Sofitel Le Faubourg :
+Server at the restuarant XXX. RoomService.
 
+MyAnatol (2021)
 
+Mathematics tutor for ninth through eleventh graders (2020)
 
-  Hôtel Sofitel Le Faubourg :
-    Server at the restuarant XXX. RoomService.
-
-
-
-  MyAnatol (2021)
-
-
-
-  Mathematics tutor for ninth through eleventh graders (2020)
-
-
-  Nexter Robotics (2018)
+Nexter Robotics (2018)
 
   
 Education :
 
-
-
 ESILV ()
-
 
 Skills :
 
@@ -47,8 +36,7 @@ Advanced Mathematics :
 
 Optimisation
 Linear Algebra
- Calculus     
-
+Calculus     
 
 Projects :
 
