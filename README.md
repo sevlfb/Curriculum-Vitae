@@ -3,36 +3,34 @@ This is an exhaustive description of my curriculum vitae
 
 Professional Experiences :
 
-``
+
   OpenValue (3rd of April 2023 - 28th of July 2023)
     Big Data and AI Consultant.
     Generative AI Solutions. Metaverse.
-``
 
-``
+
+
   Hôtel Sofitel Le Faubourg :
     Server at the restuarant XXX. RoomService.
-``
 
-``
+
+
   MyAnatol (2021)
-``
 
-``
+
+
   Mathematics tutor for ninth through eleventh graders (2020)
-``
 
-``
+
   Nexter Robotics (2018)
-`` 
+
   
 Education :
 
-``
+
 
 ESILV ()
 
-``
 
 Skills :
 
@@ -73,16 +71,16 @@ Research Track :
 
 Prediction of short sequences. State of art algorithms and discussions. link
 
-``
 
-``
+
+
   Le Bon Sauveur (2006-2019)
     Baccalauréat : Mention Bien (14.67 / 20)
-``
 
-``
+
+
   Holy Cross (London, UK) : 2004-2005
-``
+
 
 Languages Spoken :
   French (fluent)
