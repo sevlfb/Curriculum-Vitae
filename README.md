@@ -7,16 +7,20 @@ Professional Experiences :
     Big Data and AI Consultant.
     Generative AI Solutions. Metaverse.
 ``
+
 ``
   Hôtel Sofitel Le Faubourg :
     Server at the restuarant XXX. RoomService.
 ``
+
 ``
   MyAnatol (2021)
 ``
+
 ``
   Mathematics tutor for ninth through eleventh graders (2020)
 ``
+
 ``
   Nexter Robotics (2018)
 `` 
