@@ -29,32 +29,46 @@ Professional Experiences :
 Education :
 
 ``
-  ESILV ()
-    Skills :
-      Computer Science : 
-        Data Analysis
-        Deep Learning
-        Machine Learning
-        Multi-agent
-        Webdata mining
-        Semantics
-      Advanced Mathematics :
-        Optimisation
-        Linear Algebra
-         Calculus     
-	 
-	 
+ESILV ()
+
+Skills :
+
+Computer Science : 
+
+Data Analysis
+Deep Learning
+Machine Learning
+Multi-agent
+Webdata mining
+Semantics
+
+Advanced Mathematics :
+
+Optimisation
+Linear Algebra
+ Calculus     
+
+
 Projects :
-      PIX I : DaVinci Chariot 
-        Conception and studying of an engine. Creation of a 4 wheel based moving platform.
-      PIX II : Cobotic
-        Design and conception of a machine that helps human in repetitive tasks, in association with another group. Creation of a 4 wheel based moving platform. 
-        Skills :
-          Arduino, Craft.
-      PING : Falling prevention app (Android)
-        Conception of an app for Android that detects falling.
-      Research Track : 
-        Prediction of short sequences. State of art algorithms and discussions. link
+
+PIX I : DaVinci Chariot 
+
+Conception and studying of an engine. Creation of a 4 wheel based moving platform.
+
+PIX II : Cobotic
+
+Design and conception of a machine that helps human in repetitive tasks, in association with another group. Creation of a 4 wheel based moving platform. 
+
+Skills :
+  Arduino, Craft.
+  
+PING : Falling prevention app (Android)
+
+Conception of an app for Android that detects falling.
+
+Research Track : 
+
+Prediction of short sequences. State of art algorithms and discussions. link
 ``
 
 ``
